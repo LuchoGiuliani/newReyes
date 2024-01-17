@@ -56,16 +56,12 @@ export default function Hero() {
       <div className="line h-[46px] border-l p-6 text-white m-6 absolute top-0 overflow-hidden"></div>
       <div className="lineX h-[46px] border-t p-6 text-white m-6 absolute top-0 overflow-hidden"></div>
       <div className="line h-[46px] border-l p-6 text-white m-6 absolute bottom-0 overflow-hidden"></div>
-      <div className="lineX h-[46px] border-b p-6 text-white m-6 absolute bottom-0 overflow-hidden"></div>
-     
-    <div className="h-screen hero flex  justify-center items-center overflow-hidden">
-     
+      <div className="lineX h-[46px] border-b p-6 text-white m-6 absolute bottom-0 overflow-hidden"></div>    
+    <div className="h-screen hero flex  justify-center items-center overflow-hidden">   
       <div className=" opacity-5 rounded-lg text-white lineH w-6 overflow-hidden "> <img className=" object-fill p-2 opacity-1 overflow-hidden" src="/bull_frances-min.png" alt="foto" /> </div>
-      
+     
       <h1 className="font-bold  text-4xl sm:text-8xl p-4 border_text overflow-hidden opacity-0 z-200 ">Arte de Reyes</h1>
-
       <div className=" opacity-5 rounded-lg text-white lineH w-6  overflow-hidden "> <img className="object-fill p-2 opacity-1 overflow-hidden" src="/mural1-min.png" alt="foto" /> </div>
-
     </div>
     <div className="line h-[46px] border-r p-6 text-white m-6 absolute bottom-0 right-0 overflow-hidden"></div>
     <div className="lineX h-[46px] border-b p-6 text-white m-6 absolute bottom-0 right-0 overflow-hidden"></div>
