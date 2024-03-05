@@ -26,7 +26,7 @@ const Parrafo = () => {
   return (
     <div className="bg_parrafo overflow-hidden flex justify-center p-6 items-center sm:h-screen bg-[#090B09]">
     <div className="flex flex-col gap-4 mt-[220px] sm:mt-[22px] sm:flex-wrap">
-      <p className="text-6xl sm:w-full md:w-[460px] p whitespace-normal text-[#f8f8f8]">
+      <p className="text-4xl sm:w-full md:w-[460px] p whitespace-normal text-[#f8f8f8] mt-6">
         Gracias por pasar a conocer nuestra página!
       </p>
       <div className="border w-10 lineP"></div>

@@ -81,7 +81,7 @@ function App() {
   }, []);
 
   return (
-    <div ref={main} className="App  background bg-[#090B09] ">
+    <div ref={main} className="App  background bg-[#090B09] overflow-hidden">
      
       <div className=" h-full ">
         <Navbar />

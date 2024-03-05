@@ -28,7 +28,7 @@ import { NavbarLinks } from "../../constants";
   }, [menuRef]);
 
   return (
-    <div className="navbar_container w-full mt-1">
+    <div className="navbar_container w-full mt-1 ">
       <div ref={menuRef} className="z-50">
         <Menu clicked={clicked} handleClick={handleClick} />
         <div className={` sm:none links ${clicked ? "active" : ""}`}>
