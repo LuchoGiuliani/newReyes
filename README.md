@@ -2,7 +2,7 @@
 
 Bienvenidos! En esta aplicación podran encontrar algunas de las herramientas que fui utilizando para desarrollar una aplicación destinada al Arte, en este caso, a dos hermanas que trabajan en diferentes estilos, los mismos los pueden encontrar en este link
 
-## Link : https://artedereyes.netlify.app/
+## Link : https://artedereyes2024.netlify.app
 
 Tambien para aquel que quiera clonar el repositorio y trabajar sobre el mismo, debera instalar las dependecias que se fueron utilizando.
 
